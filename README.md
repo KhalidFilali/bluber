@@ -23,7 +23,7 @@
 - Users of Bluber would achieve consensus on any decisions democratically
 - Lets shift the decision making power to the drivers with respect to pricing.
 
-## BLOCKCHAIN?
+## Blockchain?
 
 - Blockchain is useful for 3 properties:
 
