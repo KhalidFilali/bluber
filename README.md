@@ -1,5 +1,5 @@
 
-#The Problem with Ridesharing
+# The Problem with Ridesharing
 
 - Uber drivers have been complaining that the gap between the fare a rider pays and what the driver receives is getting wider. They're making less and less each year, with many of them making less than minimum wage.
 
@@ -17,13 +17,13 @@
 
 -On top of that, there is a lack of transparency between rideshare drivers and rideshare passengers, which results in rideshare assaults, and various other crimes. Rideshare drivers can't trust their passengers and vice versa.
 
-#Introducing Bluber: A blockchain based ridesharing service
+# Introducing Bluber: A blockchain based ridesharing service
 
 - Imagine a community where the users can interact with each other, vote on ideas surrounding the future of the community.
 - Users of Bluber would achieve consensus on any decisions democratically
 - Lets shift the decision making power to the drivers with respect to pricing.
 
-##BLOCKCHAIN?
+## BLOCKCHAIN?
 
 - Blockchain is useful for 3 properties:
 
@@ -39,7 +39,7 @@ With this, Bluber drivers can:
 - Build direct relationships with riders for a stable and recurring customer base
 - Self-organize into ‘pods’, co-ops, or their own businesses
 
-#smart Contracts: a tool for maximum transparency and security
+# smart Contracts: a tool for maximum transparency and security
 
 - Smart contracts are used for
 1. Drivers posting their destination and departure details.
@@ -51,7 +51,7 @@ With this, Bluber drivers can:
 - Once the driver confirms the ride a new transaction is initiated that will broadcast the confirmation and driver information to the Ethereum blockchain.
 - This smart contract will contain information on both the rider and driver. This information will be used to match the rider with their most preferred modes of transportation. This way, ridesharing doesn't have to be with a car anymore.
 
-#Bluber tokens +Smart Contracts
+# Bluber tokens +Smart Contracts
 Ridesharing via Smart Contracts
 
 The goal is to create a web application that will allow users to buy rides without the middle man. A person looking for a ride would put out their request along with a price they are willing to pay. Drivers would see a list of available ride requests and would initiate the contract to verify that the ride is completed. Smart contracts ensure maximum security between transactions, and transparency between the driver and the rider, by ensuring each person knows about the other.
