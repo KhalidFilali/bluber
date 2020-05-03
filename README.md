@@ -39,7 +39,7 @@ With this, Bluber drivers can:
 - Build direct relationships with riders for a stable and recurring customer base
 - Self-organize into ‘pods’, co-ops, or their own businesses
 
-# smart Contracts: a tool for maximum transparency and security
+# Smart Contracts: a tool for maximum transparency and security
 
 - Smart contracts are used for
 1. Drivers posting their destination and departure details.
